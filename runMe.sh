@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo $RANDOM
-echo 'From Git Push'
+echo 'From Git Push2'
